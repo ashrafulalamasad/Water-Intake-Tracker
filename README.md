@@ -42,7 +42,7 @@ It helps users track how many glasses of water they've had in a day, with motiva
 <br>
 
 ## Live Website 🌐  
-👉 [Visit Live App](https://your-github-username.github.io/Water-Intake-Tracker)
+👉 [Visit Live App](https://ashrafulalamasad.github.io/Water-Intake-Tracker/)
 
 <br>
 
